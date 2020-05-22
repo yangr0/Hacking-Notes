@@ -1,3 +1,3 @@
 # Hacking-Notes
 
-These are some of the notes I am using, feel free to use them :)
+These are some of the notes I am taking, feel free to use them :)
